@@ -8,5 +8,5 @@ parses csv and format dates, renames columns and nulls to be easier to mysql imp
 
 # installation
 - install python pip
-- pip install requirements.txt
+- `pip install -r requirements.txt`
 
